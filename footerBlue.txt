@@ -1,0 +1,44 @@
+<section data-markdown data-separator='======'>
+<textarea data-template>
+
+
+#### <success>PROFIT, LOSS AND DISCOUNT</success>
+
+#### <Primary>Level - I</Primary>
+
+<div style="text-align:left">
+
+<div class="text-container">
+
+- - -
+
+<font size = "5.9">
+
+ 
+<div style = "text-align: left;">
+ 
+Ques. A company blends two varieties of tea from two different tea gardens, one variety costing ₹ 20 per  $ kg $  and other ₹ 25 per kg, in the ratio  $ 5: 4 $ . He sells the blended tea at  $ ₹ 23 $  per  $ kg $ . Find his profit per cent :
+
+<p class="fragment">
+(A)   5% profit $\newline$
+(B)   3.5% loss $\newline$
+(C)   3.5% profit $\newline$
+(D) No profit, no loss
+</p>
+</div
+</font>
+
+</div>
+
+</div>
+
+- - - 
+
+<font size = "4">
+
+Marked Price, List Price, Discount and Successive Discounts $\rightarrow$ <span style="color:blue">Practice Exercise (Level-I)</span> $\rightarrow$ Practice Exercise (Level-II)
+
+</font>
+
+</textarea>
+</section>
